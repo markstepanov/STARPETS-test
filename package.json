@@ -1,0 +1,21 @@
+{
+  "name": "shamanim_vmeste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "joi": "^17.11.0",
+    "sequelize": "^6.35.1",
+    "sqlite3": "^5.1.6",
+    "umzug": "^3.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.54.0"
+  }
+}
